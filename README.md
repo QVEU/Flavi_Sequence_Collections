@@ -10,7 +10,7 @@ All full-length coding sequences were retrieved from the Viral Pathogen Resource
 4.	Pedregosa, F. et al. Scikit-learn: Machine Learning in Python. J. Mach. Learn. Res. 12, 2825–2830 (2011).
 5.	Levenshtein, V. I. Binary Codes Capable of Correcting Deletions, Insertions and Reversals. Soviet Physics Doklady 10, 707 (1966).
 
-![image](https://github.com/QVEU/Flavi_Sequence_Collections/assets/10180619/8b5d7173-fd32-4164-b8d5-744933d7247e)
+![image](https://github.com/QVEU/Flavi_Sequence_Collections/blob/main/AllFlavis/FlaviVIPR_fl.fastaBIRCH_SeqCluster.png)
 
 ## Contact
 Patrick Dolan, NIAID-NIH
